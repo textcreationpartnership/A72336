@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The great victory vvhich God hath giuen vnto eight Holland shippes in their passage toward the East Indies: against 17. great Spanish shippes on the first of Aprill, 1613. Translated out of the Dutch copie, printed at Middleborough, by Symon Mollenaer, 1613.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1613</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72336</idno>
+            <idno type="STC">STC 13572</idno>
+            <idno type="STC">ESTC S125031</idno>
+            <idno type="EEBO-CITATION">99898892</idno>
+            <idno type="PROQUEST">99898892</idno>
+            <idno type="VID">150966</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72336)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150966)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1991:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The great victory vvhich God hath giuen vnto eight Holland shippes in their passage toward the East Indies: against 17. great Spanish shippes on the first of Aprill, 1613. Translated out of the Dutch copie, printed at Middleborough, by Symon Mollenaer, 1613.</title>
+                  <author>Mollenaer, Symon.</author>
+               </titleStmt>
+               <extent>[14] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by George Eld, For Thomas Bushel,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1613.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Original title untraced.</note>
+                  <note>Title page is A2.</note>
+                  <note>The last leaf is blank.</note>
+                  <note>Signatures: A-B⁴(-A1).</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Netherlands --  Commerce --  History --  Early works to 1800.</term>
+               <term>Netherlands --  Foreign relations --  Spain --  Early works to 1800.</term>
+               <term>Spain --  Foreign relations --  Netherlands --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150966:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 22 -->
+            <p>THE Great Victory which God hath giuen vnto eight <hi>Holland ſhippes, in their paſſage toward the</hi> Eaſt Indies:</p>
+            <p>
+               <hi>Against</hi> 17. <hi>great Spaniſh ſhippes on the firſt of</hi> APRILL, 1613.</p>
+            <p>Tranſlated out of the dutch Copie, printed at <hi>Middleborough,</hi> by <hi>Symon Mollenaer,</hi> 1613.</p>
+            <figure/>
+            <p>LONDON, Printed by <hi>George Eld,</hi> for <hi>Thomas Buſhel.</hi> 1613.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:150966:2"/>
+            <!-- PDF PAGE 23 -->
+            <pb facs="tcp:150966:2"/>
+            <!-- PDF PAGE 23 -->
+            <head>The great Victory which God hath <hi>giuen vnto</hi> 8. Holland <hi>ſhips, in their paſsage</hi> towards the Eaſt Indies, againſt 17. great <hi>Spaniſh</hi> ſhippes, on the <hi>firſt of Aprill</hi> 1613.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas of late there hath beene a commotion in the vnited Prouinces of the Neatherlands, vnder the command of his Princely excellence, <hi>Count Maurice</hi> of <hi>Naſſaw,</hi> and the Lords generall ſtates there<g ref="char:EOLhyphen"/>of, by men of all qualities and conditions v<g ref="char:EOLhyphen"/>ſing the art of nauigation into diuerſe and ſun<g ref="char:EOLhyphen"/>drie other maritime parts; It is thought fit and conuenient, by the ſayd moſt Princely Excel<g ref="char:EOLhyphen"/>lency, and Lords ſtates, for the generall good of their ſaid gouernments, and reformation of abuſes concerning the ſayd Sea-faring men, to enact and decree by theſe their Edicts or Pro<g ref="char:EOLhyphen"/>clamations as followeth.</p>
+            <p>
+               <pb facs="tcp:150966:3"/>
+               <!-- PDF PAGE 24 -->
+That the ſayd moſt Princely Excellency <hi>Count Maurice,</hi> and the ſaid generall Eſtates do by theſe their Edicts or proclamations ordaine and command that in all the prouinces, cit<g ref="char:EOLhyphen"/>ties, towns, gouernments or places of their do<g ref="char:EOLhyphen"/>minions, that noe man, what-ſo-ouer, v<g ref="char:EOLhyphen"/>ſing the Art of nauigation, preſume to im<g ref="char:EOLhyphen"/>ploy himſelfe in any ſhippe or ſhipping apper<g ref="char:EOLhyphen"/>taining or any way belonging to any forraine prince or potentate whatſoeuer, and more o<g ref="char:EOLhyphen"/>uer that all thoſe that haue heretofore, before theſe our Edicts or proclamations imployed themſelues in any forraine ſeruice at Sea, forth of our vnited gouernements, do with all ſpeed and dilligence, vpon the notice of theſe our E<g ref="char:EOLhyphen"/>dicts or proclamations, repaire to or tovards our ſayd vnited prouinces, citties, Townes or dominions within the ſpace of three months, next enſuing theſe our Edicts, vpon paine of confiſcation of life, lands &amp; goods: and more<g ref="char:EOLhyphen"/>ouer we do, by theſe our Edicts, ſtrickly charge the parents, kinſfolkes or friends of the ſaid Nauigators; imployed in the ſeruice of any Prince, ſtate, or potentate, forth of our domini<g ref="char:EOLhyphen"/>ons, to giue (with all poſſible ſpeed) notice to
+<pb facs="tcp:150966:3"/>
+               <!-- PDF PAGE 24 -->their ſaid parents, kinſfolkes or friends im<g ref="char:EOLhyphen"/>ploid in any forrain ſeruice at ſea to make their ſpeedy repaire forth of the ſaid forraigne im<g ref="char:EOLhyphen"/>ployments into the dominions, teritories, cit<g ref="char:EOLhyphen"/>ties, or townes of our ſaid vnited provinces within the terme of three months aboue ſaid, as they wil be hereafter anſwerable therevnto. And that the world may take notice of the ne<g ref="char:EOLhyphen"/>ceſſity of our iuſt proceeding herein, theſe are to giue them to vnderſtand that it is to pre<g ref="char:EOLhyphen"/>uent, as nere as in vs lyeth, the imployment of our moſt expert Pilots and Marriners in o<g ref="char:EOLhyphen"/>ther dominions, which could not in time to come but proue very preiudiciall to our ſaid vnited prouinces.</p>
+            <p>Moreouer hereby we giue notice that his Maieſty the King of great Brittaine hauing giuen leaue to his ſubiects to ſend a fleete for the diſcouery of certaine Ilands depending vpon the Indies, where Chriſtians neuer be<g ref="char:EOLhyphen"/>fore inhabited, and that they his ſaid ſubiects at their great coſt and charges by the pru<g ref="char:EOLhyphen"/>dence, valour, and Magnanimity of diuers valiant and difcreet commanders haue attai<g ref="char:EOLhyphen"/>ned the poſſeſſion of certaine of the ſayd I<g ref="char:EOLhyphen"/>lands,
+<pb facs="tcp:150966:4"/>
+               <!-- PDF PAGE 25 -->forcing the Sauage people (by their va<g ref="char:EOLhyphen"/>lour and courage) to retire farre vp into the Country, and withall building fortreſſes and townes, inhabiting them with men, women and children of all profeſſions, prouiding for them all neceſſary prouiſions for the vſe of Man, as houſes to dwell in, oxen, kine, horſes, ſheepe, goates, and all other ſortes of liuing thinges conuenient<g ref="char:punc">▪</g> with all neceſſary ſupplies there-vnto belonging; which his Maieſty of Spaine perceiuing (being informed that the Countries and Ilands which his maieſties ſub<g ref="char:EOLhyphen"/>iects of great Brittaine ſought after, were like to proue rich, fruitfull, and floriſhing, and withall that they were a dependency of the Continent of America, commonly called the Indies) ſought by all meanes poſſible to pre<g ref="char:EOLhyphen"/>uent and hinder the plantation of the Engliſh in the ſayd countries and Ilands, and therefore he cauſed a great fleete to bee prepared; conſi<g ref="char:EOLhyphen"/>ſting of Caracks, Gallyons, Hulkes, Pynaces and other ſorts of ſhipping, to the number of ſeauenteene ſayle, well prouided with all ſtore of Munition for warre, as ordnance, ſhot and poulder, ful ſtuft with marriners and ſouldiers,
+<pb facs="tcp:150966:4"/>
+               <!-- PDF PAGE 25 -->all which fleet (by the command of his ſayd Maieſty of Spaine) ſet ſayle (at their appoin<g ref="char:EOLhyphen"/>ted time) out of Spaine for their intended voy<g ref="char:EOLhyphen"/>age of the Indies, hoping to preuent the de<g ref="char:EOLhyphen"/>ſignes of their enemies, but as the ſequel ſhew<g ref="char:EOLhyphen"/>eth it prooued far otherwiſe with them.</p>
+            <p>IN the yeare 1612. laſt paſt there went out of Holland and Zealand for the Eaſt Indies eight very fayre, great, and ſtrong ſhippes, which meeting together at Englands end, tooke their courſe to further their voiage with<g ref="char:EOLhyphen"/>all ſpeede poſſible.</p>
+            <p>And in ſhorte time they came vnder the Salt Iſlandes where they ſpyed many Sayles ſhewing to be of great burdens, which was the afore ſayd Spaniſh fleete. The Hollanders, hauing deſcried them, held on ſtill their right courſe which the Spaniards ſeeing came with full ſayles vpon the Hollanders, for they had the winde with them: The Hol<g ref="char:EOLhyphen"/>landers, not thinking, or hauing any purpoſe to fight, yet ſeeing they could not beeryd of the Spaniſh fleete, prepared themſelues for the fight. At the firſt aproach the Spaniſh Admi<g ref="char:EOLhyphen"/>rall came ſo fiercely vpon them, ſhooting with
+<pb facs="tcp:150966:5"/>
+               <!-- PDF PAGE 26 -->all the terrible fury that could be imagined: which the Holland Admirall perceiuing tur<g ref="char:EOLhyphen"/>ned his ſhippe and got aboue the winde, the Spaniards ſtill mocking and ſcoffing at him, but the Hollands. Admirall with his fore<g ref="char:EOLhyphen"/>peeces of greate ordinance ſhot him quite through from the hinder-part of the Admirall ſhip through the fore-part and preſently diſ<g ref="char:EOLhyphen"/>charged all the ordnances of his own ſhip vp<g ref="char:EOLhyphen"/>the ſaid Spaniſh Admirall, and turning his ſhip diſcharged like-wiſe the other whole ſide vp<g ref="char:EOLhyphen"/>on him and ſhot ſo terribly that the bloud in the Spaniſh Admirall ran out of the ſcupper holes. At which time another Gallion com<g ref="char:EOLhyphen"/>ming to aſſiſt the ſayd Spaniſh Admrall in<g ref="char:EOLhyphen"/>tangled her-ſelfe in the great tackle of the Ad<g ref="char:EOLhyphen"/>mirall ſo that hee being all on fire, did ſinke and the Gallion alſo with him.</p>
+            <p>Then the Hollanders Admirall went to aſſiſt his Vice-admirall, which moſt valiantly was fighting with two Spaniſh ſhippes, where af<g ref="char:EOLhyphen"/>ter many thundering peales of Ordnance, on both ſides interchanged, the Spaniards ha<g ref="char:EOLhyphen"/>uing many ſlaine out-right, and many ſore wounded, began to faint, and yeeld; which
+<pb facs="tcp:150966:5"/>
+               <!-- PDF PAGE 26 -->the Hollanders perceiuing, entred into theſe two ſhips and caſt them all ouer boord, poſſeſ<g ref="char:EOLhyphen"/>ſing themſelues of all that vvas contained in them, vvhich amounted to a very great ſumme, they being very richly laden.</p>
+            <p>In the meane time, the other ſixe Holland ſhips were fighting, likewiſe, with the other Spaniſh ſhips, and moſt valiantly defended themſelues with vehement ſhooting, ſo as the very Sea ſeemed to haue been on fire; Many of the Spaniſh ſhippes were fired and ſunke: but not one of the Hollanders, onely ſome fewe men ſlaine and ſome wounded: One of the Holland ſhips had boorded the Spaniſh Vice-admirall and caſt all ouer boord, where they likewiſe got great ſtore of treaſure and ri<g ref="char:EOLhyphen"/>ches.</p>
+            <p>This terrible fight begunne at nine of the clock in the morning, during all that day and the next day vntill euening, the Holland ſhips got for prize and bootie aboue 3. tunnes of golde, beſides all other coſtly wares: but the honour and praiſe of this Roman deed is greater, in that 8. Holland ſhips, haue ouer<g ref="char:EOLhyphen"/>come 17. well manned Gallions of the migh<g ref="char:EOLhyphen"/>tie
+<pb facs="tcp:150966:6"/>
+               <!-- PDF PAGE 27 -->King of Spaine, that did ſo little eſteeme and regard the Holland ſhips and men.</p>
+            <p>After this furious and dreadfull fight, the Hollanders Admirall (with aduiſe and coun<g ref="char:EOLhyphen"/>ſell of all the officers and ſhip-companie) cau<g ref="char:EOLhyphen"/>ſed the prize, bootie and pilledge to be diuided and diſtributed to euery man according to his ranke and place, or merit and deſert: The pil<g ref="char:EOLhyphen"/>lage was ſo great, that euery ordinary man had to his ſhare whole armefuls of ſilkes, veluets, cloathes ready made, with diuerſe other rich commodities.</p>
+            <p>Thus hauing giuen thanks to God, who is the giuer of victories, relieued their hurt and mayned men, and repayred what was moſt needfull in their ſhipping, with merry hearts for the atchieuement of ſo great a victory, they continued on their former courſe for the per<g ref="char:EOLhyphen"/>formance of their intended voyage to the Eaſt Indies.</p>
+            <p>By this you may perceiue that victory con<g ref="char:EOLhyphen"/>ſiſts not in multitudes, and therefore with this admonition to all men in generall, but more particularly to all thoſe that vſe the ſea, I vvill conclude this relation: that they neither glory
+<pb facs="tcp:150966:6"/>
+               <!-- PDF PAGE 27 -->or preſume vpon their numbers, or ſtrength, but haue recourſe to him who doth and euer will ſpare the humble and beate downe the proud.</p>
+            <p>God of his infinite goodneſſe and mercy who is the gouernor of land and ſea, ſo ſteare there courſe, and direct their purpoſes, that, to his glory, the honour and profit of their coun<g ref="char:EOLhyphen"/>try, the ioy and comfort of their wiues, chil<g ref="char:EOLhyphen"/>dren, and friends, they may returne to their deſired home with proſperous and ſpeedy ſucceſſe</p>
+            <closer>Amen.</closer>
+            <trailer type="illustration">
+               <figure>
+                  <figDesc>flower</figDesc>
+               </figure>
+            </trailer>
+            <pb facs="tcp:150966:7"/>
+            <!-- PDF PAGE 28 -->
+            <pb facs="tcp:150966:7"/>
+            <!-- PDF PAGE 28 -->
+         </div>
+      </body>
+   </text>
+</TEI>
